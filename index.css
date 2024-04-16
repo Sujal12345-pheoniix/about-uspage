@@ -73,7 +73,7 @@
     text-align: center;
   }
   .team-member-img:hover{
-    transform:scale(1.2);
+    transform: scale(1.2);
   }
   .team-member-img {
     width: 150px;
